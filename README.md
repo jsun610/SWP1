@@ -1,2 +1,2 @@
-Jisun Yang 20185151
-Kookmin Univ.
+Jisun Yang    20185151
+Kookmin Univ. SW
